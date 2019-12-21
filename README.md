@@ -1,4 +1,4 @@
-# Notes to run cronicle in docker
+# Notes to run cronicle in localsystem 
 ```
 To get this code to your local system
 open terminal and go to directory where you want to create cronicle-docker code dump
