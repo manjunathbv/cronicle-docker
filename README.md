@@ -1,5 +1,11 @@
 # Notes to run cronicle in docker
 ```
+To get this code to your local system
+open terminal and go to directory where you want to create cronicle-docker code dump
+git clone https://github.com/manjunathbv/cronicle-docker
+or download directly from https://github.com/manjunathbv/cronicle-docker to your local system
+
+Open Terminal and navigate to cronicle-docker dir
 run: make
 open new tab and navigate to cronicle dir
 run: docker run -it cronicle sh
