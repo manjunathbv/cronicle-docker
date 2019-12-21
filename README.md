@@ -6,6 +6,7 @@ run: docker run -it cronicle sh
 you will get into cronicle docker image sh
 run: cd bin
 run: ./control.sh start
+open the browser and navigate to http://localhost:3012
 ```
 # Overview
 
